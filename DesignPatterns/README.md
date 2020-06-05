@@ -4,14 +4,14 @@
 	Faz uso de uma idéia, antes estudada e testada, que funciona para muita gente.
 	Torna o código mais sólido e bem feito, se bem aplicado.
 
-###Benefício
+### Benefício
 
 -   Ganho de produtividade.
 -   Organização.
 -   Fácil manutenção.
 -   Padronização de técnicas, facilitando a discussões técnicas.
 
-##GoF
+## GoF
 Livro que agrupou os Deisgn Patterns em três tipos diferentes:
 
 -   Criacional
